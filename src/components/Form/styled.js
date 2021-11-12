@@ -20,8 +20,25 @@ export const ContentButton = styled.div`
 
     @media (max-width:800px){
       margin-bottom: 100px;
-      margin-left:50px;
+      margin-left:80%;
     }
+
+    .btn{
+      background-color: #3525E6;
+      border-radius: 25px 5px 25px 5px;
+      -moz-border-radius:25px 5px 25px 5px;
+      -webkit-border-radius:25px 5px 25px 5px;
+      border: solid 2px aliceblue;
+      -webkit-border: solid 2px aliceblue;
+      -moz-border: solid 2px aliceblue;
+      color: #FFF;
+      padding: 18px 10px;
+      -webkit-padding-after: 18px;
+      -webkit-padding-before: 10px;
+      -webkit-padding-start: 18px;
+      -webkit-padding-end: 10px;
+      cursor: pointer;
+  }
 `;
 
 
