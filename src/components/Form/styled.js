@@ -23,7 +23,7 @@ export const ContentButton = styled.div`
       margin-left:60%;
     }
 
-    .btn{
+    input{
       background-color: #3525E6;
       border-radius: 25px 5px 25px 5px;
       -moz-border-radius:25px 5px 25px 5px;
