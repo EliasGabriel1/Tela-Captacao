@@ -34,8 +34,8 @@ export const ContentButton = styled.div`
       color: #FFF;
       padding: 18px 10px;
       -webkit-padding-after: 18px;
-      -webkit-padding-before: 10px;
-      -webkit-padding-start: 18px;
+      -webkit-padding-before: 18px;
+      -webkit-padding-start: 10px;
       -webkit-padding-end: 10px;
       cursor: pointer;
   }
