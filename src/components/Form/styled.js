@@ -20,6 +20,7 @@ export const ContentButton = styled.div`
 
     @media (max-width:800px){
       margin-bottom: 100px;
+      margin-left:50px;
     }
 `;
 
