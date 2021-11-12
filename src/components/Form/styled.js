@@ -39,6 +39,7 @@ export const ContentButton = styled.div`
       -webkit-padding-start: 10px;
       -webkit-padding-end: 10px;
       cursor: pointer;
+      min-height: 60px;
   }
 `;
 
