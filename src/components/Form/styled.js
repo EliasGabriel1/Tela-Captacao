@@ -15,12 +15,13 @@ export const ContentButton = styled.div`
     display: -ms-flexbox;  
     display: -webkit-flex; 
     justify-content:end;
+    -moz-justify-content: end;
     -webkit-justify-content: end;
     margin-top:10px;
 
     @media (max-width:800px){
       margin-bottom: 100px;
-      margin-left:60%;
+      margin-left:35%;
     }
 
     input{
